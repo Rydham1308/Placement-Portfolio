@@ -14,3 +14,6 @@ Welcome to the Placement Portfolio Website Template repository! This repository 
 
 To get started with this template, simply clone or download the repository and customize it to fit your company's branding and content. Follow the included documentation for guidance on setup and customization.
 
+## Live Demo 
+
+[Link](https://rydham1308.github.io/placement-portfolio/)
